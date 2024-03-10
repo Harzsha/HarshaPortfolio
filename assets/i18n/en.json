@@ -1,0 +1,58 @@
+{
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "Harsha_P__Angular.pdf",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description":"Over the past <span class='underline'>five years of experience</span>, I've been actively involved in creating systems, interfaces, bots, and technological solutions to enhance the web. My focus is on writing and refining code that is clean, reusable, and scalable, following best practices and development standards. I specialize in <span class='underline'> Angular, React, SQL</span> and occasionally utilize <span class='underline'>.NET</span> to contribute to elevating the overall quality of web development.",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "Over the past <span class='underline'>five years of experience</span>, I've been actively involved in creating systems, interfaces, bots, and technological solutions to enhance the web. My focus is on writing and refining code that is clean, reusable, and scalable, following best practices and development standards. I specialize in <span class='underline'> Angular, React, SQL</span> and occasionally utilize <span class='underline'>.NET</span> to contribute to elevating the overall quality of web development."
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab": "CGI",
+            "Title": "Fullstack developer",
+            "Date": "March 2022 - Present",
+            "Description": [
+                "Developed and maintained a web-based application using Angular, .NET, and SQL, resulting in improved user experience and increased performance.",
+                "Developed, tested, and maintained robust, scalable, and secure web applications. Ensure the seamless integration of front-end and back-end modules",
+                "Built a real-time chat application using WebSockets and Node.js, increasing communication and collaboration among team members.",
+                "Implementation of continuous integration and daily backups.",
+                "Leading a team of 4 people in the development of a Survey platform made in Angular, .NET, and SQL.",
+                "Planning meetings in reports."
+            ]
+        },
+        
+        {
+            "Tab": "BOSCH",
+            "Title": "Frontend developer",
+            "Date": "October 2020 - Feburary 2022",
+            "Description": [
+                "I have hands-on experience with Three.js for 3D graphics and Go language for backend development.",
+                "Coding of API requests with RxJS.",
+                "Collaborated with designers and back-end developers to create responsive and user-friendly web experiences"
+            ]
+        },
+        {
+            "Tab": "TCS",
+            "Title": "Independent",
+            "Date": "March 2020 - Present",
+            "Description": [
+                "Developed and maintained web applications using Angular and Java.",
+                "Improved website performance by optimizing images and implementing caching techniques.",
+                "Creation of modules with complex reactive forms.",
+                "Design layout with SCSS, Bootstrap, Materialize, Prime Faces, Media Queries etc."
+            ]
+        }
+    ],
+   
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello"
+}
