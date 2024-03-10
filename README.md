@@ -1,5 +1,6 @@
 # Harsha-Portfolio 
-I have 5 years of experience developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in `Angular, React, NodeJS and ExpressJS and sometimes in Python` applying good practices and development standards.
+        Over the pastfive years of experience, I've been actively involved in creating systems, interfaces, bots, and technological solutions to enhance the web. My focus is on writing and refining code that is clean, reusable, and scalable, following best practices and development standards. I specialize in  Angular, React, SQL and occasionally utilize .NET to contribute to elevating the overall quality of web development.
+
 
 Click the link below to open my portfolio.
 
